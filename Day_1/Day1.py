@@ -29,4 +29,8 @@ def group(inputs):
 
 Inputs = read_file('Input.txt')
 elves =  group(Inputs)
-print(max(elves))
+print('Max Elf',max(elves))
+elves.sort(reverse=True)
+
+print(elves[0],elves[1],elves[2])
+print(sum([elves[0],elves[1],elves[2]]))
