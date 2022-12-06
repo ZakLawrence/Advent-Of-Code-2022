@@ -12,8 +12,9 @@ Each day I will attempt to solve the puzzel in a different programming language 
 |Day 1| Python |
 |Day 2| c++ |
 |Day 3| Ruby |
-|Day 4| |
-|Day 5| |
+|Day 4| Julia |
+|Day 5| Python|
+|Day 6| Ruby|
 
 # Languanges to try 
 
