@@ -7,16 +7,7 @@ class file_node(object):
     
     def __str__(self):
         return f'{self.name} ({self.size})'
-
-    def __name__(self):
-        return self.name
-
-    def __size__(self):
-        return self.size
-    
-    def __parent__(self):
-        return self.parent   
-
+  
 class tree(object):
     def __init__(self) -> None:
         self.root: file_node = file_node("/",0,None)
