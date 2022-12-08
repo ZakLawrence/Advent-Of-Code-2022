@@ -16,6 +16,7 @@ Each day I will attempt to solve the puzzel in a different programming language 
 |Day 5| Python|
 |Day 6| Ruby|
 |Day 7| Python |
+|Day 8| R |
 
 
 # Languanges to try 
